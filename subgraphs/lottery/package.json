@@ -1,9 +1,9 @@
 {
   "name": "lottery",
-  "description": "PancakeSwap Subgraph",
+  "description": "Dex Subgraph",
   "version": "1.0.0",
-  "repository": "git@github.com:pancakeswap/pancake-subgraph.git",
-  "author": "PancakeSwap",
+  "repository": "git@github.com:Dex/dex-subgraph.git",
+  "author": "Dex",
   "license": "MIT",
   "scripts": {
     "codegen": "graph codegen subgraph.yaml",
